@@ -28,6 +28,6 @@ class Solution:
         backtrack()
         return output
         
-        ![image](https://user-images.githubusercontent.com/26172918/201560116-00a84f55-a33a-4e94-a4b8-d95522483f2b.png)
+        ![image](https://user-images.githubusercontent.com/26172918/201560116-00a84f55-a33a-4e94-a4b8-d95522483f2b.png)  
 
 ````
